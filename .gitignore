@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+workouts.db
+.env
+venv/
